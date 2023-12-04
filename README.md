@@ -19,7 +19,13 @@ Python / Machine Learning / LLM / NLP / Flask / Docker / Scrum
 Deep Learning / TensorFlow / Python / Matplotlib
 
 # Education
-## Master 2, Artificial Intelligence Toulouse III - Paul Sabatier University, Toulouse, France
+- Master 2, Artificial Intelligence, Toulouse III - Paul Sabatier University, Toulouse, France
 
-## Master 2, Software Engineering Abdelhamid Mehri University, Constantine, Algeria
+- Master 2, Software Engineering, Constantine II - Abdelhamid MEHRI University, Constantine, Algeria
+
+# Publication 
+## HTE at ArAIEval Shared Task: Integrating Content Type Information in Binary Persuasive Technique Detection
+- Fine-tuning the MARBERT model for two tasks: identifying persuasive techniques in text and classifying text types. 
+- Leveraging the imbalance in the dataset using focal loss
+- The system achieved the highest ranking on the leaderboard during testing.
 
